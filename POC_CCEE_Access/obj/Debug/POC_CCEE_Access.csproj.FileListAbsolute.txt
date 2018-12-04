@@ -1,0 +1,12 @@
+C:\Users\ptandrade\source\repos\POC_CCEE_Access\POC_CCEE_Access\bin\Debug\POC_CCEE_Access.exe.config
+C:\Users\ptandrade\source\repos\POC_CCEE_Access\POC_CCEE_Access\bin\Debug\POC_CCEE_Access.exe
+C:\Users\ptandrade\source\repos\POC_CCEE_Access\POC_CCEE_Access\bin\Debug\POC_CCEE_Access.pdb
+C:\Users\ptandrade\source\repos\POC_CCEE_Access\POC_CCEE_Access\bin\Debug\WebDriver.dll
+C:\Users\ptandrade\source\repos\POC_CCEE_Access\POC_CCEE_Access\bin\Debug\WebDriver.Support.dll
+C:\Users\ptandrade\source\repos\POC_CCEE_Access\POC_CCEE_Access\bin\Debug\WebDriver.xml
+C:\Users\ptandrade\source\repos\POC_CCEE_Access\POC_CCEE_Access\bin\Debug\WebDriver.Support.xml
+C:\Users\ptandrade\source\repos\POC_CCEE_Access\POC_CCEE_Access\obj\Debug\POC_CCEE_Access.csprojAssemblyReference.cache
+C:\Users\ptandrade\source\repos\POC_CCEE_Access\POC_CCEE_Access\obj\Debug\POC_CCEE_Access.csproj.CoreCompileInputs.cache
+C:\Users\ptandrade\source\repos\POC_CCEE_Access\POC_CCEE_Access\obj\Debug\POC_CCEE_Access.csproj.CopyComplete
+C:\Users\ptandrade\source\repos\POC_CCEE_Access\POC_CCEE_Access\obj\Debug\POC_CCEE_Access.exe
+C:\Users\ptandrade\source\repos\POC_CCEE_Access\POC_CCEE_Access\obj\Debug\POC_CCEE_Access.pdb
